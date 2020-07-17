@@ -1,3 +1,6 @@
 This is modified text 2
 
 Checking push
+
+
+Changing Directly from Master
